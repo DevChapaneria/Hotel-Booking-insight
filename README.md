@@ -11,6 +11,9 @@ travel dates, with the majority of bookings occurring within two weeks of the ch
 Using these insights, I was able to provide recommendations to hotels on how they can optimize their pricing strategies, marketing campaigns, and 
 customer service initiatives to maximize revenue and improve customer satisfaction.
 
+![Home page ](https://user-images.githubusercontent.com/58722740/230387913-78e9589e-cb2a-4f0d-98de-d47c3384d8dc.png)
+
+
 
 Overall, this project was an excellent opportunity to apply my data analysis skills to a real-world problem and provide actionable insights 
 to help hotels improve their operations.
